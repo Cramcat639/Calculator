@@ -59,6 +59,8 @@ calculadora-tkinter/
 ├── README.md             # Documentación del proyecto
 └── Muestra_1  		  # Captura de pantalla de la aplicación
 
+```
+
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
